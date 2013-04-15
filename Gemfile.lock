@@ -107,8 +107,8 @@ GEM
     multi_json (1.6.1)
     multi_xml (0.5.1)
     multipart-post (1.1.5)
-    mysql2 (0.3.11)
     nokogiri (1.5.5)
+    pg (0.15.1)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -201,8 +201,8 @@ DEPENDENCIES
   libxml-ruby (~> 2.3.3)
   mocha
   multi_xml (~> 0.5.1)
-  mysql2 (~> 0.3.11)
   nokogiri (~> 1.5.5)
+  pg
   rails (~> 3.2.11)
   rb-fsevent (~> 0.9.1)
   rspec-rails
